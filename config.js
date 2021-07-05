@@ -6,7 +6,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/test1', // (Github pages 사용시 repository 이름 ex.'/naver-gatsby'), (custom domain시 '/') 
-    siteUrl: 'https://KIM-EunJin.github.io/test1', // (Github pages 사용시 github pages 기본 주소), (custom domain시 웹사이트 주소) 
+    siteUrl: 'https://KIM-EunJin.github.io', // (Github pages 사용시 github pages 기본 주소), (custom domain시 웹사이트 주소) 
     // gaTrackingId: null, // Google Analytics Tracking ID
     // trailingSlash: false, // 각 항목 주소 맨 뒤에 slash '/' 붙는 여부
   },
